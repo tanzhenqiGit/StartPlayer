@@ -1,4 +1,8 @@
-bin
+bin/
+libs/
+.settings/
+project.properties
+proguard-project.txt
+rt.jar
 .classpath
 .project
-project.properties
